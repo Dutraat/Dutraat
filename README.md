@@ -1,16 +1,43 @@
-## Hi there 👋
+# Gabriel Dutra
 
-<!--
-**Dutraat/Dutraat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Estudante de Engenharia de Controle e Automação na [Universidade de Pernambuco (UPE)](https://www.upe.br/)**
 
-Here are some ideas to get you started:
+💡 Atualmente, estou focado em aprender mais sobre **automação e desenvolvimento de software**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielchaves.cs@gmail.com)
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img
+  align="left"
+  alt="C"
+  title="C"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+
+<br />
+<br />
+
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="Github Stats"
+    height="150"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Dutraat&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+  <img
+    align="left"
+    alt="Github Stats"
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutraat&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1"
+  />
+</p>
+
+
