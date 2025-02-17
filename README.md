@@ -33,9 +33,9 @@
     src="https://github-readme-stats.vercel.app/api?username=Dutraat&show_icons=true&theme=tokyonight&&include_all_commits&locale=pt-br"
   />
   <img
-    align="left"
+    align="right"
     alt="Github Stats"
-    height="140"
+    height="120"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutraat&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1"
   />
 </p>
