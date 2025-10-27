@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldutrac/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Dutraat)
 
+
 ## 🤖 Linguagens & Tecnologias
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -16,13 +17,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30">
 </div>
 
+---
+
 ## 📂 Projetos
 
 ### UPEcman – Pacman com ncurses
 - **Descrição:** Projeto acadêmico para o curso de Automação (2024.2)
 - **Tecnologias:** C, ncurses
 - **Detalhes:** Implementação do Pacman com fantasmas seguindo comportamentos clássicos (Blinky, Pinky, Inky, Clyde)
-- [https://github.com/Dutraat/Upecman](./README.md)
+- [README](https://github.com/Dutraat/Upecman/blob/main/README.md)
 
 ### Projetos de Emuladores
 - Vários emuladores pequenos desenvolvidos para fins de aprendizado
