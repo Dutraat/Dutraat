@@ -10,13 +10,11 @@
 
 ## 🤖 Linguagens & Tecnologias
 
-<img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C" width="30" height="30" style="padding-right: 10px; vertical-align: middle;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="30" height="30" style="padding-right: 10px; vertical-align: middle;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30" style="padding-right: 10px; vertical-align: middle;">
-
-<br /><br /><br />
-
----
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30">
+</div>
 
 ## 📂 Projetos
 
@@ -24,7 +22,7 @@
 - **Descrição:** Projeto acadêmico para o curso de Automação (2024.2)
 - **Tecnologias:** C, ncurses
 - **Detalhes:** Implementação do Pacman com fantasmas seguindo comportamentos clássicos (Blinky, Pinky, Inky, Clyde)
-- [Veja o README completo](./README.md)
+- [https://github.com/Dutraat/Upecman](./README.md)
 
 ### Projetos de Emuladores
 - Vários emuladores pequenos desenvolvidos para fins de aprendizado
