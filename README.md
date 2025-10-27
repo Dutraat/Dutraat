@@ -1,60 +1,59 @@
 # Gabriel Dutra
 
-**🎓 Student of Control and Automation Engineering at [Universidade de Pernambuco (UPE)](https://www.upe.br/)**
+**🎓 Estudante de Engenharia de Controle e Automação na [Universidade de Pernambuco (UPE)](https://www.upe.br/)**
 
-💡 Currently focused on **automation and software development**.
+💡 Atualmente, estou focado em aprender mais sobre **automação e desenvolvimento de software**.
 
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielchaves.cs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldutrac/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Dutraat)
 
----
+## 🤖 Linguagens & Tecnologias
 
-## 🤖 Languages & Technologies
-
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="ROS2" title="ROS2" width="30px" style="padding-right: 10px;" src="https://ros.org/static/img/ros_logo.svg" />
+<img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C" width="30" height="30" style="padding-right: 10px; vertical-align: middle;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="30" height="30" style="padding-right: 10px; vertical-align: middle;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30" style="padding-right: 10px; vertical-align: middle;">
 
 <br /><br /><br />
 
 ---
 
-## 📂 Projects
+## 📂 Projetos
 
-### UPEcman – Pacman with ncurses
-- **Description:** Academic project for Automation course (2024.2)  
-- **Technologies:** C, ncurses  
-- **Details:** Implemented Pacman with ghosts following classic behaviors (Blinky, Pinky, Inky, Clyde)  
-- [See full README](./README.md)
+### UPEcman – Pacman com ncurses
+- **Descrição:** Projeto acadêmico para o curso de Automação (2024.2)
+- **Tecnologias:** C, ncurses
+- **Detalhes:** Implementação do Pacman com fantasmas seguindo comportamentos clássicos (Blinky, Pinky, Inky, Clyde)
+- [Veja o README completo](./README.md)
 
-### Emulator Projects
-- Various small emulators developed for learning purposes  
-- Focus on **logic, fun, and experimentation**
+### Projetos de Emuladores
+- Vários emuladores pequenos desenvolvidos para fins de aprendizado
+- Foco em **lógica, diversão e experimentação**
 
-### Games
-- Small game projects (like UPEcman)  
-- Designed to be **simple, fun, and educational**
+### Jogos
+- Pequenos projetos de jogos (como UPEcman)
+- Projetados para serem **simples, divertidos e educativos**
 
-### Other Projects
-- ROS2 robot control projects  
-- Python automation scripts  
+### Outros Projetos
+- Projetos de controle de robôs com ROS2
+- Scripts de automação em Python
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <p>
-  <img align="left" alt="Github Stats" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Dutraat&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Estatísticas do GitHub" height="150" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Dutraat&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 </p>
+
+<br clear="both" />
 
 ---
 
-## 💡 About Me
-- Passionate about **robotics, automation, and embedded systems**  
-- Interested in **learning new technologies and contributing to open-source projects**  
-- Always looking for ways to **combine theory and practical implementation**  
-- **Learning new languages** and exploring different cultures  
-- **Enjoys small but fun projects** that challenge creativity  
-- **Favorite motto:** "My robot arm does what I tell it… mostly… sometimes… okay, who needs sleep anyway?" 🤖💤
+## 💡 Sobre Mim
+- Apaixonado por **robótica, automação e sistemas embarcados**
+- Interessado em **aprender novas tecnologias e contribuir para projetos de código aberto**
+- Sempre buscando maneiras de **combinar teoria e implementação prática**
+- **Aprendendo novas línguas** e explorando diferentes culturas
+- **Gosto de projetos pequenos mas divertidos** que desafiem a criatividade
+- **Frase favorita:** "Meu braço robótico faz o que eu mando... na maioria das vezes... às vezes... ok, quem precisa de sono mesmo?" 🤖💤
